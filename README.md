@@ -1,6 +1,6 @@
 Digital Literacy Project
-Name: Veer Jain
-Branch: CSE Artificial Intelligence (Integrated M.Tech)
+Name: Rachit Sarkari
+Branch: B-Tech Computer Science Engineering 
 Year: 1st Year Semester 2nd
 
 Project Overview
