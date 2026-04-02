@@ -1,7 +1,7 @@
 # Digital Literacy Project
 Name: Rachit Sarkari  
 Branch: B-Tech Computer Science Engineering   
-Year: 1st Year Semester 2nd
+Year: 1st Year Semester 2nd 
 Registration Number: 25BCE10243
 
 Project Overview
