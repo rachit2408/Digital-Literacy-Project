@@ -1,7 +1,8 @@
 # Digital Literacy Project
 Name: Rachit Sarkari  
 Branch: B-Tech Computer Science Engineering   
-Year: 1st Year Semester 2nd  
+Year: 1st Year Semester 2nd
+Registration Number: 25BCE10243
 
 Project Overview
 This project is part of the CSE0001 Digital Literacy course. It covers various aspects of digital awareness, professional communication, online tools, and cyber safety.
